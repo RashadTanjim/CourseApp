@@ -17,4 +17,9 @@
 
     <color name="overlay_light_40">#66FFFFFF</color>
 
+    <color name="bottomNavigationCheckedState">#34495E</color>
+    <color name="bottomNavigationPressedState">#34495E</color>
+    <color name="bottomNavigationEnabledState">#34495E</color>
+    <color name="bottomNavigationIdealState">#95A5A6</color>
+
 </resources>

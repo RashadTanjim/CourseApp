@@ -54,5 +54,8 @@ dependencies {
 
     annotationProcessor 'androidx.annotation:annotation:1.1.0'
 
+    //circular ImageView
+    implementation 'de.hdodenhof:circleimageview:3.0.1'
+
 
 }

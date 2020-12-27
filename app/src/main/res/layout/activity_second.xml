@@ -203,8 +203,7 @@
                                     android:id="@+id/ivPause"
                                     android:layout_width="20dp"
                                     android:layout_height="20dp"
-                                    android:src="@drawable/ic_baseline_format_list_numbered"
-                                    android:tint="@color/white" />
+                                    android:src="@drawable/ic_baseline_format_list_numbered" />
 
                                 <ImageView
                                     android:id="@+id/ivPlay"
