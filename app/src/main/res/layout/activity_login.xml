@@ -20,7 +20,8 @@
     <View
         android:layout_width="match_parent"
         android:layout_height="300dp"
-        android:background="@color/blue"></View>
+        android:background="@drawable/bg_full">
+    </View>
 
     <ImageView
         android:id="@+id/logo"
