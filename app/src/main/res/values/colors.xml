@@ -15,4 +15,6 @@
     <color name="grey">#B3BCC1</color>
     <color name="lightGrey">#dedfe0</color>
 
+    <color name="overlay_light_40">#66FFFFFF</color>
+
 </resources>
