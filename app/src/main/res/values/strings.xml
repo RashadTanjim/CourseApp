@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Course App</string>
+    <string name="login_error_warning">তোমার ইমেল অথবা পাসওয়ার্ড ভুল হয়েছে, আরেকটু মনে করে লেখার চেষ্টা করো</string>
 </resources>
