@@ -34,7 +34,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/spacing_small"
-            android:text="তোমার ইমেল অথবা পাসওয়ার্ড ভুল হয়েছে, আরেকটু মনে করে লেখার চেষ্টা করো"
+            android:text="@string/login_error_warning"
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
             android:textColor="@color/black" />
