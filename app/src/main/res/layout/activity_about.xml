@@ -31,7 +31,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Programming Hero"
+                android:text="@string/programming_hero"
                 android:textAppearance="@style/TextAppearance.AppCompat.Display1"
                 android:textColor="@android:color/white"
                 app:fontFamily="sans-serif-light" />
@@ -55,14 +55,14 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Version"
+                    android:text="@string/version"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body1"
                     android:textColor="@color/overlay_light_40" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="0.1.1 (beta)"
+                    android:text="@string/version_number"
                     android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                     android:textColor="@android:color/white" />
 
@@ -80,14 +80,14 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Last Update"
+                    android:text="@string/last_update"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body1"
                     android:textColor="@color/overlay_light_40" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="December 2020"
+                    android:text="@string/release_date"
                     android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                     android:textColor="@android:color/white" />
 
@@ -100,7 +100,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Learn Programming with fun. Programming Hero Web Course App."
+                android:text="@string/learn_programming_with_fun"
                 android:textAlignment="gravity"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="@android:color/white" />
@@ -112,7 +112,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="- Team Programming Hero"
+                android:text="@string/team_programming_hero"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="@android:color/white" />
 
